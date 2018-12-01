@@ -1,0 +1,17 @@
+{
+  "report_url": "https://gtmetrix.com/reports/learn.letskodeit.com/e8zO5avq",
+  "site": "https://learn.letskodeit.com",
+  "date_iso": "2018-12-01T22:55:20.396060",
+  "date_gtmetrix": "Sat, Dec 1, 2018, 12:55 PM -0800",
+  "browser": "Chrome (Desktop) 62.0.3202.94, PageSpeed 1.15-gt1, YSlow 3.1.8",
+  "test_server_region": "Vancouver, Canada",
+  "performance_scores": {
+    "page_speed_score": 72.0,
+    "yslow_score": 82.0
+  },
+  "page_details": {
+    "fully_loaded_time_in_seconds": 2.6,
+    "total_page_size": "1.56MB",
+    "requests": 30
+  }
+}
